@@ -3,4 +3,8 @@ Let's start writing our names.
 
 Vipin Gupta
 
+<<<<<<< HEAD
 
+=======
+Snehal mane
+>>>>>>> acbaae49f9323a3cc922a82d66a77231c4d66dff
